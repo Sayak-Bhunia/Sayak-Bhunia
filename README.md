@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14956
-Fork on GitHub
-4026
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Sayak Bhunia</h1>
 <h3 align="center">CSE UG | 4 🌟 in CPP @HackerRank | GFG institute rank 91 | Web Dev | Cloud Dev | Blockchain Enthusiast | Open Source Enthusiast</h3>
 
