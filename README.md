@@ -42,5 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayak-bhunia&show_icons=true&locale=en" alt="sayak-bhunia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayak-bhunia&" alt="sayak-bhunia" /></p>
-[![An image of @sayak2903's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayak2903)](https://holopin.io/@sayak2903)
+
 
