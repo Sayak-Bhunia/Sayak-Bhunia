@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **sbhunia2903@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sayak-bhunia-452419252/](https://www.linkedin.com/in/sayak-bhunia-452419252/)
-
-- ⚡ Fun fact **I like hangout with my friends but my friends don't**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sayak_kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayak_kun" height="30" width="40" /></a>
