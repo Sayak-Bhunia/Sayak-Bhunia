@@ -1,4 +1,4 @@
-![9d517609989d9ca3f81c66ad8bc602ff](https://github.com/Sayak-Bhunia/Sayak-Bhunia/assets/110457746/05b2205c-3361-45bd-bf2c-9369943083bf)
+![lennart-butz-ukiyo2](https://github.com/Sayak-Bhunia/Sayak-Bhunia/assets/110457746/bd070ad5-b9dd-4d3c-8818-fc4127f93cc1)
 
 <h1 align="center">Hi 👋, I'm Sayak Bhunia</h1>
 <h3 align="center">A passionate frontend developer/designer from India</h3>
